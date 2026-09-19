@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+*.tsbuildinfo
+out*.txt
+err*.txt
+server*.txt
+s1*.txt
